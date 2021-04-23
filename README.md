@@ -6,11 +6,17 @@
 
 Links to recent work.
 
+Geospatial visualization using R and ShinyApp
+
 [Toronto Police Open Data Visualization](https://anupama-rk.shinyapps.io/tpsDashboard/)
+
+Anomaly and Outlier Detection using Clustering techiques
 
 [Anomaly Detection from Sales Data](https://anupama-rk.shinyapps.io/anomalydetection/)
 
-[Product Recommender for online shopping](https://anupama-rk.shinyapps.io/anomalydetection/)
+Product Recommender based on predictive modeling
+
+[Product Recommender for online shopping](https://anupama-rk.shinyapps.io/instacart/)
 
 
 
