@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anupama-rk
-- 👀 I’m interested in data analysis, predictive modelling and deep learning using R, python.
+- 👀 I’m interested in data analysis, data visualization, predictive modelling and deep learning using R, python.
 - 🌱 I’m currently learning machine learning at York U.
 - 💞️ I’m looking to collaborate on data analytics projects.
 - 📫 How to reach me email anupamakowsalya@gmail.com
